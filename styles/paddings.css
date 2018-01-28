@@ -1,0 +1,33 @@
+.padd-top {
+    padding: 50px;
+}
+
+._margin-top {
+    margin-top: 80px;
+}
+
+.sn-center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px dashed rgb(17, 10, 14);
+}
+
+.paddAll {
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px
+}
+
+.edite,
+.delete {
+    cursor: pointer;
+}
+
+
+/* table,
+th,
+td {
+    border: 1px solid black;
+} */
